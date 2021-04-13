@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352.697" height="948.648" viewBox="0 0 352.697 948.648">
+  <g id="cube-outline-separated" transform="translate(860.428 -1713.734)">
+    <path id="Path_218" data-name="Path 218" d="M234.107,319.687,409.939,412.5,234.107,514.017,58.276,412.5Z" transform="translate(-918.187 1721.649)" fill="#fff" stroke="#8eccd9" stroke-width="0.5"/>
+    <g id="Group_290" data-name="Group 290" transform="translate(-860.13 2255.907)">
+      <path id="Path_217" data-name="Path 217" d="M58.276,262.547V465.58L234.107,567.1,409.939,465.58V262.547L234.107,161.031Z" transform="translate(-58.057 -161.031)" fill="#fff" stroke="#8eccd9" stroke-width="0.5"/>
+      <path id="Path_224" data-name="Path 224" d="M190.1,541.65l.118-211.728,175.692-92.784V440.1Z" transform="translate(-14.025 -135.609)" fill="#fff" stroke="#8eccd9" stroke-width="0.5"/>
+      <path id="Path_1062" data-name="Path 1062" d="M-684.058,2155.828l-176.072-92.693" transform="translate(860.13 -1961.035)" fill="#fff" stroke="#8eccd9" stroke-width="0.5"/>
+    </g>
+    <path id="Path_219" data-name="Path 219" d="M234.107,355.361l175.832-92.814L234.107,161.031,58.276,262.547Z" transform="translate(-918.187 1669.297)" fill="none" stroke="#8eccd9" stroke-width="0.5"/>
+    <circle id="Ellipse_48" data-name="Ellipse 48" cx="50.132" cy="50.132" r="50.132" transform="translate(-734.212 1713.984)" fill="none" stroke="#8eccd9" stroke-width="0.5"/>
+  </g>
+</svg>

@@ -1,0 +1,1405 @@
+.alt-font {
+  font-family: "Conduit ITC W01 Medium" !important;
+}
+
+.body-font {
+  font-family: "Akkurat-Pro-Regular" !important;
+}
+
+.body-font-light {
+  font-family: "Akkurat-Pro-Light" !important;
+}
+
+.width-100 {
+  width: 100%;
+}
+
+.full-height {
+  height: 100%;
+  display: table;
+  width: 100%;
+}
+
+.l-page {
+  width: 100%;
+}
+
+.light-blue {
+  color: #1ab5d5 !important;
+}
+
+.h_1,
+.h_2,
+.h_3,
+.h_5 {
+  font-family: "Conduit ITC W01 Medium";
+  color: #555555;
+  font-weight: 400;
+}
+
+.h_1 {
+  font-size: 85px;
+  line-height: 85px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  letter-spacing: 0.015em;
+}
+
+.h_2 {
+  font-size: 68px;
+  line-height: 68px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  letter-spacing: 0.015em;
+}
+
+.h_3 {
+  font-size: 49px;
+  line-height: 51px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  letter-spacing: 0.015em;
+}
+
+.h_4,
+.h_6 {
+  font-weight: 400;
+  color: #555555;
+  font-family: "Akkurat-Pro-Light";
+  margin-bottom: 30px;
+}
+
+.h_4 {
+  font-size: 36px;
+  line-height: 40px;
+}
+
+.h_5 {
+  font-size: 28px;
+  line-height: 30px;
+}
+
+.h_6 {
+  font-size: 24px;
+  line-height: 34px;
+}
+
+.section-about.banner-title-main {
+  margin-top: 0;
+  padding: 160px 0 450px;
+  float: left;
+  width: 100%;
+  min-height: 670px;
+}
+
+.banner-title-main .s-container {
+  position: relative;
+}
+
+.banner-title-main .left {
+  float: left;
+  width: 50%;
+}
+
+.banner-title-main .right {
+  position: absolute;
+  right: 100px;
+  top: 60px;
+}
+
+.banner-title-main .title-h4 {
+  color: #555555;
+  font-size: 36px;
+  line-height: 40px;
+  font-family: "Akkurat-Pro-Light";
+  margin-bottom: 30px;
+  font-weight: 400;
+  margin-top: 40vh;
+}
+
+.banner-title-main .scroll-container .s-container .box_section_aboute {
+  height: 300px;
+}
+
+.s-container {
+  box-sizing: border-box;
+  width: 1400px;
+  margin: 0 auto;
+  padding: 0;
+  display: table;
+}
+
+.no-padding {
+  padding: 0 !important;
+}
+
+.col-4 {
+  width: 33.33333333%;
+  float: left;
+}
+
+.col-5 {
+  width: 41.666667%;
+  float: left;
+}
+
+.col-6 {
+  width: 50%;
+  float: left;
+}
+
+.col-7 {
+  width: 58.333333%;
+  float: left;
+}
+
+.col-8 {
+  width: 66.66666667%;
+  float: left;
+}
+
+.c-sub-title__label {
+  margin-bottom: 28px;
+}
+
+.btn {
+  background-color: #18b5d4;
+  color: #ffffff;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  font-family: "Conduit ITC W01 Medium";
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #555555;
+  color: #fff;
+}
+
+.section-about {
+  width: 100%;
+  display: inline-block;
+  height: auto;
+  background-color: #ffffff;
+  padding: 200px 0;
+  position: relative;
+}
+
+.section-about.third-section {
+  padding-bottom: 0;
+}
+
+.section-about .scroll-container {
+  height: 200vh;
+  margin-top: -50vh;
+}
+
+.scroll-container .s-container {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.scroll-container .s-container .section-about-box {
+  height: 200px;
+  width: 100%;
+  display: inline-block;
+}
+
+.section-about.second-section,
+.section-about.third-section {
+  transition: 0.3s;
+}
+
+.section-about.second-section .right_box,
+.section-about.third-section .right_box {
+  transition: 0.3s;
+  transition-delay: 0.6s;
+}
+
+.section-about.section-opacity .right_box {
+  opacity: 1;
+}
+
+.section-about.section-opacity {
+  opacity: 1;
+}
+
+.section-about-box .left_box {
+  width: 30%;
+  float: left;
+  min-height: 410px;
+}
+
+.section-about-box .right_box {
+  width: 40%;
+  float: right;
+  padding-top: 0;
+  min-height: 200px;
+}
+
+.section-about .h_2,
+.section-about .h_4 {
+  color: #e2e2e2;
+  font-family: "Conduit ITC W01 Medium";
+}
+
+.section-about .left_box .h_2 {
+  margin-bottom: 50px;
+}
+
+.section-about .left_box .h_4 {
+  text-transform: uppercase;
+}
+
+.section-about .content .number {
+  color: #0098b9;
+  font-size: 120px;
+  line-height: 100px;
+  font-family: "Conduit ITC W01 Bold";
+  margin-bottom: 20px;
+}
+
+.section-content-area {
+  width: 100%;
+  float: left;
+  clear: both;
+  padding-bottom: 100px;
+  background-color: #fff;
+  position: relative;
+  padding-top: 0;
+}
+
+.content-area-box {
+  width: 100%;
+  float: left;
+  clear: both;
+  padding-bottom: 100px;
+}
+
+.content-area-box ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 900px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.content-area-box ul li {
+  padding: 80px 185px;
+  position: relative;
+  width: 100%;
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+.content-area-box .h_5 {
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.content-area-box p {
+  font-size: 18px;
+  line-height: 26px;
+  color: #555555;
+  font-family: "Akkurat-Pro-Light";
+}
+
+.content-area-box .icon {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 154px;
+  height: 154px;
+}
+
+.content-area-box .right_icon {
+  left: auto;
+  right: 0;
+}
+
+.work-section {
+  background-image: linear-gradient(
+    to top,
+    #ffffff,
+    #fdfdfe,
+    #fafcfd,
+    #f8fafb,
+    #f5f9f9
+  );
+  background-image: -moz-linear-gradient(
+    to top,
+    #ffffff,
+    #fdfdfe,
+    #fafcfd,
+    #f8fafb,
+    #f5f9f9
+  );
+  background-image: -webkit-linear-gradient(
+    to top,
+    #ffffff,
+    #fdfdfe,
+    #fafcfd,
+    #f8fafb,
+    #f5f9f9
+  );
+  width: 100%;
+  float: left;
+  padding: 150px 0;
+  position: relative;
+}
+
+.work-section .right-img {
+  text-align: right;
+  position: sticky;
+  top: 25%;
+}
+
+.work-section .left {
+  padding-right: 100px;
+  box-sizing: border-box;
+}
+
+.work-section .sticky-title {
+  padding: 70px 0;
+  z-index: 99;
+  width: 100%;
+  display: inline-block;
+  position: sticky;
+  top: 80px;
+  background: -moz-linear-gradient(top, rgba(245 249 249) 70%, rgba(230,230,230,0) 100%);
+  background: -webkit-linear-gradient(top, rgba(245 249 249,1) 70%,rgba(125,185,232,0) 100%);
+  background: linear-gradient(to bottom, rgb(245 249 249) 70%,rgb(230 230 230 / 0%) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f9f9', endColorstr='#ffffff',GradientType=0 );
+}
+
+.work-section .sticky-title .c-pageTitle__label {
+  color: #1ab5d5;
+  font-family: "DIN Next W01 Regular";
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: 700;
+}
+
+.work-section .sticky-title h3 {
+  font-family: "Conduit ITC W01 Medium";
+  margin-bottom: 0;
+}
+
+.work-section .work-content {
+  display: inline-block;
+  width: 100%;
+}
+
+.work-section .work-content .light-blue {
+  width: 60%;
+  margin-bottom: 60px;
+}
+
+.work-section .left::-webkit-scrollbar {
+  display: none;
+}
+
+.work-section .work-content .content {
+  margin-bottom: 200px;
+  width: 100%;
+  float: left;
+}
+
+.work-section .work-content .content.first-content {
+  height: 120vh;
+}
+
+.work-section .work-content .content.first-content .fix-content {
+  display: flex;
+  align-items: center;
+  height: 55%;
+  flex-direction: column;
+  position: sticky;
+  top: 27%;
+}
+.border-bottom {
+    position: absolute;
+    top: -47px;
+    right: 176px;
+}
+.border-top-left {
+    position: absolute;
+    top: -240px;
+    left: 0;
+}
+.border-top-bottom {
+    position: absolute;
+    right: 140px;
+    top: -150px;
+}
+
+@media only screen and (min-width: 1921px) {
+  .work-section .work-content .content.first-content .fix-content {
+    top: 35%;
+  }
+  .work-section .right-img {
+    top: 30%;
+  }
+}
+
+.work-section .work-content p {
+  font-size: 18px;
+  line-height: 26px;
+  font-family: "Akkurat-Pro-Light";
+  color: #555555;
+}
+
+.work-section .content-image .image {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  margin-top: 100px;
+}
+
+.work-section .content-image .image:before {
+  background-color: #467cc2;
+  height: 415px;
+  content: "";
+  clip-path: polygon(0 0, 63% 0, 100% 100%, 0% 100%);
+  width: 415px;
+  display: inline-block;
+  opacity: 0.2;
+}
+
+.work-section .content-image .image.color-bg-02:before {
+  background-color: #e2d44c;
+}
+
+.work-section .content-image .image.color-bg-03:before {
+  background-color: #0faab7;
+}
+
+.work-section .content-image .image.color-bg-04:before {
+  background-color: #61caf8;
+}
+
+.work-section .content-image .image .image-right {
+  position: absolute;
+  left: 150px;
+  top: 50px;
+}
+
+.work-section .content-image .image a {
+  background-color: #1ab5d5;
+  padding: 20px 50px 20px 30px;
+  box-sizing: border-box;
+  font-size: 19px;
+  font-family: "Conduit ITC W01 Medium";
+  position: absolute;
+  top: 42%;
+  right: 20px;
+  display: inline-block;
+  color: #fff;
+  max-width: 250px;
+  text-transform: uppercase;
+  width: 100%;
+  letter-spacing: 0.5px;
+  transition: 0.3s;
+}
+
+.work-section .content-image .image a:hover {
+  background-color: #555555;
+  color: #ffffff;
+}
+
+.work-section .content-image .image a span {
+  position: absolute;
+  top: 50%;
+  right: 30px;
+  margin-top: -15px;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.work-section .content-image p {
+  width: 50%;
+  float: right;
+  margin-top: -30px;
+  margin-right: 30px;
+  position: relative;
+}
+
+.work-section .content-image p a {
+  color: #1ab5d5;
+  font-size: 14px;
+  font-family: "Akkurat-Pro-Regular";
+  margin-top: 10px;
+  display: block;
+}
+
+.work-section .content-image p a:hover {
+  color: #555555;
+}
+
+.create-section {
+  width: 100%;
+  float: left;
+  box-sizing: border-box;
+  padding: 0 80px;
+  margin-bottom: 80px;
+}
+
+.create-section .create-bg {
+  background-color: #0098b9;
+  padding:0;
+  width: 100%;
+  box-sizing: border-box;
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+}
+
+.create-section .create-bg .s-container {
+  position: relative;
+  width: 900px;
+  padding: 160px 0 100px;
+}
+
+.create-section .animation-top {
+  position: absolute;
+  left: 0;
+  height: 200px;
+  top: 0;
+}
+
+.create-section .desktop-view {
+  display: block !important;
+}
+
+.create-section .ipad-view-top,
+.create-section .ipad-view {
+  display: none !important;
+}
+
+.create-section .phone-view,
+.create-section .phone-view-bottom {
+  display: none !important;
+}
+
+.create-section .animation-bottom {
+  position: absolute;
+  left: 270px;
+  height: 127px;
+  bottom: 0;
+}
+
+.create-section .create-bg .h_3 {
+  font-family: "Conduit ITC W01 Medium";
+  color: #fff;
+  margin-left: 100px;
+  width: 500px;
+  font-weight: 700;
+}
+
+.create-section .create-bg .button {
+  background-color: #fff;
+  color: #1ab5d5;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  margin-left: 100px;
+  box-sizing: border-box;
+  font-family: "Conduit ITC W01 Medium";
+  transition: 0.3s;
+}
+
+.create-section .create-bg .button:hover {
+  background-color: #555555;
+  color: #fff;
+}
+
+.products-section .products-bg {
+  background-color: #e7f5fa;
+  padding: 110px 0;
+  width: 100%;
+  box-sizing: border-box;
+  display: inline-block;
+}
+
+.products-section .products-bg .s-container {
+  padding: 0 100px;
+}
+
+.products-section .products-bg .h_4 {
+  font-family: "Akkurat-Pro-Regular";
+}
+
+.products-section .products-bg .h_6 {
+  margin-bottom: 80px;
+}
+
+.products-section .products-bg .h_5 {
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.products-section .products-bg .button {
+  background-color: #1ab5d5;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 8px 30px;
+  box-sizing: border-box;
+  font-family: "Conduit ITC W01 Medium";
+  transition: 0.5s;
+  font-size: 18px;
+}
+
+.products-section .col-left {
+  float: left;
+  width: 50%;
+}
+
+.products-section .col-right {
+  float: left;
+  width: 50%;
+}
+
+.products-section .products-bg .right {
+  text-align: right;
+}
+
+.products-section .products-bg .button:hover {
+  background-color: #555555;
+  color: #fff;
+}
+
+.about-experience {
+  padding: 180px 0 0;
+  box-sizing: border-box;
+  width: 100%;
+  display: inline-block;
+  width: 100%;
+}
+
+.about-experience .about-left {
+  float: left;
+  width: 50%;
+  padding: 25px 25px 25px 80px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.about-experience .about-left:before {
+  height: 100%;
+  width: 1px;
+  background-color: #a8dbea;
+  content: "";
+  display: inline-block;
+  position: absolute;
+  left: 60px;
+  top: 0;
+}
+
+.about-experience .about-right {
+  float: left;
+  width: 50%;
+  padding: 25px 80px 25px 25px;
+  box-sizing: border-box;
+}
+
+.about-experience p {
+  font-size: 14px;
+  line-height: 20px;
+  color: #3c3c3c;
+  margin-bottom: 10px;
+  font-family: "Akkurat-Pro-Light";
+}
+
+.about-experience .link {
+  font-size: 14px;
+  line-height: 20px;
+  color: #0098b9;
+  font-family: "Akkurat-Pro-Light";
+}
+
+.about-experience .link:hover {
+  color: #555555;
+}
+
+.about-experience .about-right {
+  text-align: right;
+}
+
+.about-experience .image {
+  position: relative;
+  display: inline-block;
+  padding: 25px 30px;
+}
+
+.about-experience .image:before {
+  background-color: #e7f5fa;
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 75%;
+  top: 0;
+  right: 0;
+  z-index: -1;
+}
+
+.clients-logo {
+  display: inline-block;
+  width: 100%;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.clients-logo .botton {
+  margin-top: 75px;
+}
+
+.clients-logo .c-clients__Headline {
+  margin-bottom: 65px;
+  width: 100%;
+}
+
+.l-hidden-mobile {
+  clear: both;
+}
+
+.ipad-block {
+  display: none !important;
+}
+
+@media only screen and (min-width: 1804px) {
+  .l-row,
+  .l-row--legacy,
+  .mc4wp-response .mc4wp-alert,
+  .mc4wp-response .mc4wp-notice {
+    padding: 0 97px;
+    box-sizing: border-box;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 1803px) {
+  .s-container {
+    width: 1080px;
+  }
+  .banner-title-main .left {
+    width: 60%;
+  }
+  .work-section .left {
+    padding-right: 0;
+  }
+  .create-section {
+    padding: 0 40px;
+  }
+  .section-about-box .left_box {
+    width: 40%;
+  }
+  .section-about-box .right_box {
+    width: 50%;
+  }
+  .l-hidden-mobile .l-col,
+  .l-hidden-mobile .l-row {
+    margin: 0;
+  }
+}
+@media only screen and (max-width: 1366px) {
+  .work-section .right-img {
+    right: 15%;
+  }
+}
+@media only screen and (max-width: 1365px) {
+  .s-container {
+    width: 880px;
+  }
+  .banner-title-main .left {
+    width: 70%;
+  }
+  .banner-title-main .right img {
+    width: 200px;
+  }
+  .banner-title-main .right {
+    right: 0;
+  }
+  .section-content-area .col-6 {
+    width: 100%;
+  }
+  .content-area-box ul {
+    width: 100%;
+  }
+  .create-section .create-bg .h_3 {
+    margin-left: 0;
+  }
+  .create-section .create-bg .button {
+    margin-left: 0;
+  }
+  .work-section .right-img {
+    margin-right: 0;
+    float: right;
+    width: 40%;
+    right: 20%;
+  }
+  .work-section .left {
+    width: 60%;
+  }
+  .work-section .work-content .light-blue {
+    width: 100%;
+  }
+  .work-section .work-content .content:last-child {
+    margin-bottom: 0;
+  }
+  .products-section .products-bg .s-container {
+    padding: 0;
+  }
+  .about-experience .about-left {
+    padding: 25px;
+  }
+  .about-experience .about-left:before {
+    left: 0;
+  }
+  .about-experience .about-right {
+    padding-right: 0;
+  }
+}
+
+@media only screen and (max-width: 1219px) {
+  .s-container {
+      width: 810px;
+  }
+  .work-section .right-img {
+    margin-right: 0;
+  }
+  .work-section .right-img img {
+    max-width: 100%;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .create-section {
+    padding: 0;
+  }
+  .create-section .create-bg {
+    padding: 120px 0;
+  }
+  .section-about.second-section,
+  .section-about.third-section {
+    opacity: 1;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .s-container {
+    width: 530px;
+  }
+  .banner-title-main.section-about {
+    position: relative !important;
+    top: 0 !important;
+    padding: 150px 0 50px !important;
+  }
+  .banner-title-main.section-about .left_box {
+    width: 100%;
+  }
+  .banner-title-main.section-about .right_box {
+    right: -50px;
+    top: 170px;
+    width: auto;
+    transform: none;
+    display: none;
+  }
+  .banner-title-main.section-about .scroll-container {
+    height: auto;
+    margin-top: 0;
+  }
+  .banner-title-main.section-about .scroll-container .s-container {
+    position: relative;
+    display: block;
+    height: auto;
+  }
+  .banner-title-main .scroll-container .s-container .box_section_aboute {
+    height: auto;
+  }
+  .section-about .number, .section-about .h_2, .section-about .h_4 {
+    opacity: 1 !important;
+  }
+  .ipad-none {
+    display: none !important;
+  }
+  .ipad-block {
+    display: block !important;
+  }
+  .h_1 {
+    font-size: 54px;
+    line-height: 54px;
+    width: 70%;
+  }
+  .h_4 {
+    font-size: 32px;
+    line-height: 40px;
+    width: 75%;
+  }
+  .h_3 {
+    font-size: 42px;
+    line-height: 45px;
+  }
+  .h_2 {
+    line-height: 58px;
+  }
+  .section-about-box .left_box {
+    width: 70%;
+    position: relative;
+    top: 0;
+    min-height: 0;
+  }
+  .main-section {
+    display: inline-block;
+    width: 100%;
+  }
+  .main-section .section-about.first-section {
+    position: sticky;
+    position: -webkit-sticky;
+    position: -moz-sticky;
+    position: -ms-sticky;
+    position: -o-sticky;
+    top: 0;
+    min-height: 0;
+  }
+  .section-about .scroll-container {
+    height: auto;
+    margin-top: 0;
+  }
+  .scroll-container .s-container {
+    display: block;
+    height: auto;
+    position: relative;
+  }
+  .scroll-container .s-container .section-about-box {
+    height: auto;
+    width: 100%;
+    display: inline-block;
+  }
+  .section-about-box .right_box .content {
+    overflow: visible;
+    position: relative;
+  }
+  .section-about-box .right_box .scroll,
+  .section-about-box .right_box .scroll2,
+  .section-about-box .right_box .scroll3 {
+    height: auto;
+  }
+  .section-about-box .right_box {
+    width: 100%;
+    padding: 0;
+    min-height: 0;
+  }
+  .section-about {
+    padding: 160px 0 0;
+  }
+  .section-about.third-section {
+    padding-bottom: 160px;
+  }
+  .content-area-box .icon {
+    width: 105px;
+    height: 105px;
+  }
+  .content-area-box ul li {
+    padding: 60px 125px;
+  }
+  .section-content-area .h_4 {
+    width: 100%;
+  }
+  .content-area-box p {
+    font-size: 16px;
+  }
+  .create-section {
+    margin-bottom: 0;
+    position: relative;
+    margin-top: -5px;
+  }
+  .work-section {
+    padding: 0;
+    overflow: visible;
+  }
+  .work-section .left {
+    width: 100%;
+    height: auto;
+    overflow: visible;
+  }
+  .work-section .sticky-title {
+    padding-bottom: 0;
+    background: none !important;
+    margin-bottom: 0;
+    position: relative;
+    width: 60%;
+    top: 0;
+  }
+  .h_6 {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .work-section .s-container {
+    width: 100%;
+  }
+  .work-section .s-container .fix-content {
+    width: 530px;
+    margin: 100px auto;
+    box-sizing: border-box;
+    display: table;
+  }
+  .work-section .work-content {
+    background: none !important;
+  }
+  .work-section .content {
+    background-color: #f5f9f9;
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    padding: 0;
+    margin-bottom: 0 !important;
+  }
+  .work-section .right-img {
+    display: none;
+  }
+  .work-section .ipad-img {
+    text-align: center;
+    margin-bottom: 70px;
+    width: 100%;
+  }
+  .work-section .work-content .light-blue {
+    width: 60%;
+    margin-bottom: 40px;
+  }
+  .work-section .content-image p a {
+    margin-top: 30px;
+  }
+  .work-section .work-content .c-pageTitle__label {
+    color: #1ab5d5;
+  }
+  .work-section .work-content .content.first-content .fix-content {
+    align-items: flex-start;
+    top: 120px;
+    height: 100vh;
+  }
+  .work-section .sticky-title.ipad-none {
+    display: block !important;
+  }
+  .work-section .work-content .first-content {
+    position: sticky;
+    position: -webkit-sticky;
+    position: -moz-sticky;
+    position: -ms-sticky;
+    position: -o-sticky;
+    top: 0;
+  }
+  .products-section .col-left {
+    width: 100%;
+  }
+  .products-section .col-left .h_4 {
+    width: 100%;
+  }
+  .products-section .products-bg .right img {
+    width: 154px;
+    height: auto;
+  }
+  .products-section .products-bg .right {
+    float: right;
+    margin-top: -260px;
+  }
+  .products-section .products-bg .h_6 {
+    width: 60%;
+  }
+  .clients-logo .botton {
+    margin-top: 40px;
+  }
+  .clients-logo .c-clients__Headline {
+    margin-bottom: 35px;
+    width: 100%;
+  }
+  .clients-logo .l-flexRow img {
+    width: 30px;
+  }
+  .clients-logo .l-flexRow .c-clients__Row--left img,
+  .clients-logo .l-flexRow .c-clients__Row--right img {
+    width: 28%;
+  }
+  .about-experience .about-left {
+    flex: 0 0 70%;
+    max-width: 70%;
+    padding: 0;
+    order: 2;
+  }
+  .about-experience .about-left h4 {
+    width: 100%;
+  }
+  .about-experience .about-left:before {
+    display: none;
+  }
+  .about-experience .about-right {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 0;
+    order: 1;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  .about-experience {
+    padding: 90px 0 0;
+  }
+  .about-experience .s-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .create-section .desktop-view {
+    display: none !important;
+  }
+  .create-section .ipad-view-top,
+  .create-section .ipad-view {
+    display: block !important;
+  }
+}
+
+@media only screen and (max-width: 639px) {
+  .no-padding .c-section__MobilePad {
+   padding-left: 0 !important;
+    padding-right: 0 !important; 
+  }
+  .s-container {
+    width: 100%;
+    padding: 0 23px;
+  }
+  .banner-title-main .right {
+    right: 30px;
+    top: 150px;
+  }
+  .banner-title-main .h_1 {
+    font-size: 37px;
+    line-height: 40px;
+    width: 100%;
+  }
+  .banner-title-main .title-h4 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .main-section .section-about.first-section {
+    top: 100px;
+  }
+  .banner-title-main {
+    padding-bottom: 50px;
+  }
+  .section-content-area {
+    padding-bottom: 40px;
+  }
+  .section-about {
+    padding: 50px 0 50px;
+  }
+  .section-about.third-section {
+    padding-bottom: 50px;
+  }
+  .work-section .s-container .fix-content {
+    width: 100%;
+    margin: 50px 0;
+  }
+  .section-about-box .h_3 {
+    font-size: 28px;
+    line-height: 30px;
+  }
+  .section-about .content .number {
+    font-size: 67px;
+    line-height: 70px;
+    margin-top: 30px;
+  }
+  .section-about-box .h_2 {
+    font-size: 38px;
+    line-height: 38px;
+  }
+  .section-about-box .h_4 {
+    font-size: 20px;
+    line-height: 25px;
+    width: 100%;
+    text-transform: uppercase;
+  }
+  .section-content-area .h_4 {
+    font-size: 24px;
+    line-height: 30px;
+    width: 100%;
+  }
+  .content-area-box ul li {
+    padding: 0;
+    margin-bottom: 50px;
+  }
+  .content-area-box ul li:last-child {
+    margin-bottom: 0;
+  }
+  .content-area-box .icon {
+    position: relative;
+    margin-bottom: 30px;
+  }
+  .content-area-box .icon.right_icon {
+    float: right;
+  }
+  .content-area-box p,
+  .content-area-box .h_5 {
+    float: left;
+    width: 100%;
+  }
+  .create-section .create-bg .h_3 {
+    width: 100%;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .h_3 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .create-section .create-bg {
+    padding: 100px 0;
+    z-index: -5;
+  }
+  .work-section .work-content .c-pageTitle__label {
+    font-size: 12px;
+  }
+  .work-section {
+    padding: 0;
+  }
+  .work-section .ipad-img {
+    margin: 20px 0 50px;
+  }
+  .work-section .work-content .first-content {
+    top: 50px;
+  }
+  .work-section .work-content .h_4 {
+    font-size: 24px;
+    line-height: 26px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .work-section .work-content .light-blue {
+    width: 100%;
+  }
+  .work-section .content-image .image {
+    margin-top: 60px;
+  }
+  .work-section .content-image .image:before {
+    width: 70%;
+    margin-left: -53px;
+    margin-bottom: -30px;
+  }
+  .work-section .content-image .image {
+    padding: 0 30px;
+    box-sizing: border-box;
+  }
+  .work-section .content-image p {
+    width: 100%;
+    margin-top: 70px;
+    margin-right: 0;
+  }
+  .work-section .s-container {
+    padding: 0;
+  }
+  .work-section .work-content .content {
+    padding: 0 23px;
+    box-sizing: border-box;
+  }
+  .work-section .content-image .image .image-right {
+    position: absolute;
+    left: 0;
+    top: auto;
+    bottom: 0;
+    width: 100%;
+    max-width: 350px;
+  }
+  .work-section .content-image .image a {
+    left: 0;
+    bottom: 0;
+    top: auto;
+    right: 0;
+    max-width: 350px;
+    padding: 15px 50px 15px 20px;
+    font-size: 16px;
+  }
+  .work-section .s-container .fix-content .ipad-img {
+    margin: 0 0 50px;
+  }
+  .products-section .products-bg .s-container {
+    padding: 0 23px;
+  }
+  .products-section .col-left .h_4 {
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 20px;
+  }
+  .products-section .products-bg .h_6 {
+    width: 100%;
+  }
+  .products-section .products-bg .h_5 {
+    font-weight: 500;
+  }
+  .products-section .products-bg .right {
+    display: none;
+  }
+  .about-experience .about-left {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .about-experience .about-right {
+    overflow: hidden;
+  }
+  .about-experience .image {
+    width: 100%;
+  }
+  .about-experience .image img {
+    width: 100%;
+  }
+  .h-zScene {
+    clear: both;
+  }
+  .about-experience .about-left h4 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .about-experience {
+    margin-bottom: 30px;
+  }
+  .create-section .ipad-view-top,
+  .create-section .ipad-view {
+    display: none !important;
+  }
+  .create-section .phone-view,
+  .create-section .phone-view-bottom {
+    display: block !important;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .work-section .sticky-title {
+    padding-top: 0;
+    top: 0;
+  }
+  .section-about.banner-title-main {
+    padding: 80px 0 50px;
+  }
+}
+
+.section-about .number,
+.section-about .h_2,
+.section-about .h_4 {
+  transition: opacity 0.3s 0.25s ease-out;
+  will-change: opacity;
+}

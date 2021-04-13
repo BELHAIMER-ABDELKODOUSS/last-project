@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208.937" height="240.773" viewBox="0 0 208.937 240.773">
+  <g id="hero_cube" data-name="hero cube" transform="translate(900.399 -1690.182)">
+    <g id="cube-outline-complete" transform="translate(-900.011 1690.47)">
+      <path id="Path_218" data-name="Path 218" d="M162.227,319.687l103.951,54.871L162.227,434.574,58.276,374.558Z" transform="translate(-58.146 -194.691)" fill="#fff" stroke="#8eccd9" stroke-width="0.5"/>
+      <circle id="Ellipse_48" data-name="Ellipse 48" cx="29.638" cy="29.638" r="29.638" transform="translate(74.443 91.09)" fill="none" stroke="#8eccd9" stroke-width="0.5"/>
+      <g id="Group_290" data-name="Group 290" transform="translate(0 0)">
+        <path id="Path_217" data-name="Path 217" d="M58.276,221.047V341.08L162.227,401.1,266.179,341.08V221.047L162.227,161.031Z" transform="translate(-58.146 -161.031)" fill="none" stroke="#8eccd9" stroke-width="0.5"/>
+        <path id="Path_224" data-name="Path 224" d="M190.1,417.165l.07-125.174,103.869-54.854V357.13Z" transform="translate(-86.003 -177.114)" fill="none" stroke="#8eccd9" stroke-width="0.5"/>
+        <path id="Path_1062" data-name="Path 1062" d="M-756.036,2117.935l-104.093-54.8" transform="translate(860.13 -2002.774)" fill="none" stroke="#8eccd9" stroke-width="0.5"/>
+      </g>
+      <path id="Path_219" data-name="Path 219" d="M162.227,275.919l103.951-54.871L162.227,161.031,58.276,221.047Z" transform="translate(-58.146 -160.782)" fill="none" stroke="#8eccd9" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>
